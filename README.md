@@ -16,6 +16,5 @@
     (https://www.youtube.com/watch?v=sZ-u51prgRk)
 
     ##### images
-    (https://i0.wp.com/techwek.com/wp-content/uploads/2021/01/boa-noite-para-rir-muito.jpg?resize=513%2C490&ssl=1)
-
+(/image/sample.jpeg"fufu")
 
