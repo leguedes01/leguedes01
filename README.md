@@ -16,5 +16,5 @@
     (https://www.youtube.com/watch?v=sZ-u51prgRk)
 
     ##### images
-(/image/sample.jpeg"fufu")
+(/image/sample.jpeg)
 
