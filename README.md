@@ -15,6 +15,5 @@
     #### link
     (https://www.youtube.com/watch?v=sZ-u51prgRk)
 
-    ##### images
-!(fufu.jpeg )
+ 
 
