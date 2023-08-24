@@ -1,19 +1,10 @@
 # HI Guyss
 
 - ## 👋 Hi, I’m @leguedes01
+- <p> ESSE É MEU GIT ESPERO QUE CURTAM. PRETENDO ALÉM DE MOSTRAR MINHA HABILIDADES E QUALIDADES, QUERO MOSTRAR MINHA EVOLUÇÃO COMO PROGRAMADOR E COMO PESSOA.
+SOU UMA PESSOA QUE ADORA PROGRAMAR E ESTOU APRENDENDO COM O TEMPO; SABEMOS QUE O TEMPO É VALIOSO NÃO É MESMO?? 
+ISSO TUDO QUE APRENDENDO TENTO COLOCAR EM PRÁTICA POR MAIS QUE AS VEZES EU MESMO ACABO ESQUEÇENDO, ESTOU APRENDENDO PYTHON NA ESCOLA SENAI EM GUARULHOS, ESTÁ SENDO ÓTIMO PARA MIM !!! SEI HTML  E CSS, MÁS, NÃO É O BASTANTE PARA O NOSSO MERCADO DE TRABALHO. <BACKGROUND-COLOR  RED  > APRENDER, CRESCER E EVOLUIR. 
 
-- 👀 I’m interested in me aperfeiçoar em linguagens de programação;
-- 🌱 I’m currently learning Python;
-- 💞️ I’m looking to collaborate on comprometimento e desenvolvimento de projetos;
-- - 📫 How to reach me muito easy por email ou numero de whtts;
-
- ### tables 
-  - left columuns
-  - left foo
-  - left baz
-
-    #### link
-    (https://www.youtube.com/watch?v=sZ-u51prgRk)
 
  
 
