@@ -6,4 +6,27 @@
 <LI> Colabcase, Maelcase, Pascalcase, Snakecase, Camelcase. contatenar   [ sempre jusar o ' ' + 
 print : para algo aparecer ma tela; conatenar 
 
+#cumprimento = input('digite seu nome '+ '')
+
+
+senha = 2303
+entrada = "acesso permitido"
+if (senha == "2303"):
+  print('acesso permitido')
+
+else:
+  print('acesso negado')
+
+
+numero1 = 1
+numero2 = 2
+print(numero1 / numero2)
+
+
+nome = "leonardo"
+sobrenome = "guedes"
+print (nome + sobrenome )
+
+comentario = input('digite seu nome' + '')
+
 
