@@ -28,5 +28,18 @@ sobrenome = "guedes"
 print (nome + sobrenome )
 
 comentario = input('digite seu nome' + '')
+age = int(input("digite sua idade"))
+experiencia = input 
+#indentação === organização do código em python
+if age >= 18 or age <=65:
+  print("você pode votar ")
+  else:
+    print("você não pode votar")
+
+   
+    if experiencia == "excel" or experiencia == "office":
+      print("selcionado(a)")
+      else:
+        print("não pode ser selecionado")
 
 
