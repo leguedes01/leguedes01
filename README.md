@@ -6,7 +6,7 @@
 <LI> Colabcase, Maelcase, Pascalcase, Snakecase, Camelcase. contatenar   [ sempre jusar o ' ' + 
 print : para algo aparecer ma tela; conatenar 
 
-#cumprimento = input('digite seu nome '+ '')
+#cumprimento = input('digite seu nome '+ '')d
 
 
 senha = 2303
