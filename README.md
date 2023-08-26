@@ -60,4 +60,13 @@ var1= 123
 var2= 'world'
 print(f'hello to the {var2} {var1}')
 
+if year == 2020:
+  print("ano de pandemia")
+elif year == 2021:
+print("vertap ganhou f1")
+elif year == 2022:
+  print("guerra na ucrania")
+  else:
+    print("ano atual ")
+
 
