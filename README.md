@@ -36,10 +36,28 @@ if age >= 18 or age <=65:
   else:
     print("você não pode votar")
 
+    <li> 25/08</li>
+
    
     if experiencia == "excel" or experiencia == "office":
       print("selcionado(a)")
       else:
         print("não pode ser selecionado")
+
+        var1 = 123
+var2 = 'world'
+print("hello to the %s %d " %(var2,var1))
+
+var1= 123
+var2= 'world'
+print("hello to the {} {}".format(var2,var1))
+
+var1= 123 
+var2= 'world'
+print('hello to the {} {}'+ var2 + str(var1))
+
+var1= 123
+var2= 'world'
+print(f'hello to the {var2} {var1}')
 
 
